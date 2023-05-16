@@ -1,0 +1,49 @@
+.main-body{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left-items{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* right items */
+.right-items{
+    width: 38rem;
+    max-width: 40em;
+    min-width: 25rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
